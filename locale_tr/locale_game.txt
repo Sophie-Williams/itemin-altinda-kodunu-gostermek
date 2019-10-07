@@ -1,0 +1,2 @@
+#En alt satıra ekle:
+ITEM_VNUM_TOOLTIP	Nesne Kodu: %d 
